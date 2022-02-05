@@ -30,8 +30,8 @@ After forking this project in `Github`, run these commands:
 
 ```bash or cmd or terminal
 ## clone this repo to a local directory
-**_HTTPS:_** git clone https://github.com/<your_git_username>/cypress-with-typescript.git **_, or_**
-**_SSH:_** git clone git@github.com:<your_git_username>/cypress-with-typescript.git
+** HTTPS: ** git clone https://github.com/<your_git_username>/cypress-with-typescript.git **_, or_**
+** _ SSH: _ ** git clone git@github.com:<your_git_username>/cypress-with-typescript.git
 
 
 
