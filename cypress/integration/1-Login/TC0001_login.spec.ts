@@ -1,10 +1,10 @@
 /// <reference types = 'cypress' />
 
 import { LoginPage } from "../../pages/login_page"
-import { PostLoginPage } from "../../pages/postLogin_page"
+import { PostLogInPage } from "../../pages/postLogIn_page"
 
 const loginPage = new LoginPage()
-const postLoginPage = new PostLoginPage()
+const postLoginPage = new PostLogInPage()
 
 it('Valid Login and Logout Test', function(){
     loginPage.navigateToLoginPage()

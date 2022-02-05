@@ -37,8 +37,4 @@ export class LoginPage{
     validateRedirectedLoginUrl(){
         cyHelper.validateUrlIsEqual(this.redirectedLoginUrl)
     }
-    
-    clickForgotPasswordLink(){
-        cyHelper.clickOnElement(this.selector_forgotPasswordLink)
-    }
 }
