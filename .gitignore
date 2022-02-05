@@ -2,6 +2,7 @@
 # Logs
 logs
 *.log
+npm-debug.log
 
 # Runtime data
 pids
@@ -9,6 +10,7 @@ pids
 *.seed
 
 # Others
+.DS_Store
 .tmp
 tmp
 .projects
