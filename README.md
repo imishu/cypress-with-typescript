@@ -1,3 +1,7 @@
+# cypress-with-typescript
+
+It is an automation test repo to learn and understand Cypress test framework. The repo contains UI based tests only and have used [[OrangeHRM's demo site](https://opensource-demo.orangehrmlive.com/index.php/dashboard)] to build up test scenarios.
+
 ## Pre-Requisite:
 
 1. Cypress is a desktop application that users need to install in their systems. The Cypress desktop application supports the following operating systems:
