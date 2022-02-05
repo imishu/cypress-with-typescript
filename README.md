@@ -1,6 +1,6 @@
 # cypress-with-typescript
 
-It is an automation test repo to learn and understand Cypress test framework. The repo contains UI based tests only and have used [[OrangeHRM's demo site](https://opensource-demo.orangehrmlive.com/index.php/dashboard)] to build up test scenarios.
+It is an automation test repo to learn and understand Cypress test framework. The repo contains UI based tests only and have used [OrangeHRM's demo site](https://opensource-demo.orangehrmlive.com/index.php/dashboard) to build up test scenarios.
 
 ## Pre-Requisite:
 
