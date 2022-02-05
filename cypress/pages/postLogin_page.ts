@@ -4,7 +4,7 @@ import { CypressHelper } from "../utilities/cypressHelper"
 
 const cyHelper = new CypressHelper()
 
-export class DashboardPage{
+export class PostLoginPage{
     profileWelcomeMessage = "[id=welcome]"
     logoutLink = '[id=welcome-menu] a[href="/index.php/auth/logout"]'
 

@@ -21,12 +21,4 @@ export class CypressHelper{
     validateElementContainsString(element_selector: string, partialString: string){
         cy.get(element_selector).should('contain', partialString)
     }
-
-    validateElementValue(element_selector: string, expectedValue: string){
-        cy.get(element_selector).should('have.value', expectedValue)
-    }
-
-    validateElementDoesNotHaveValue(element_selector: string){
-        cy.get(element_selector).should('not.have.value')
-    }
 }
