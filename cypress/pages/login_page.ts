@@ -4,7 +4,7 @@ import { CypressHelper } from "../utilities/cypressHelper"
 
 const cyHelper = new CypressHelper()
 
-export class LoginPage{
+export class LogInPage{
 
     selector_usernameTextBox = "[id=txtUsername]"
     selector_passwordTextBox = "[id=txtPassword]"
