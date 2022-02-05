@@ -40,7 +40,7 @@ cd cypress-with-typescript
 npm install
 
 ## to run test
-npm start test
+npm run test
 ```
 
 You should see the Cypress test browser is up and running. We are now ready to run Cypress tests.
