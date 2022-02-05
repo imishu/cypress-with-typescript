@@ -33,8 +33,6 @@ After forking this project in `Github`, run these commands:
 HTTPS: git clone https://github.com/<your_git_username>/cypress-with-typescript.git , or
 SSH: git clone git@github.com:<your_git_username>/cypress-with-typescript.git
 
-
-
 ## cd into the cloned repo
 cd cypress-with-typescript
 
