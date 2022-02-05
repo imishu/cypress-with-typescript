@@ -1,0 +1,36 @@
+   
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Others
+.tmp
+tmp
+.projects
+*.orig
+out.js
+snapshots.js
+.nyc_output
+coverage
+dist
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+screenshots
+videos
+cypress/videos
+cypress/screenshots
+examples/*/cypress/logs
+examples/*/cypress/downloads
