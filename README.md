@@ -4,15 +4,17 @@ It is an automation test repo to learn and understand Cypress test framework. Th
 
 ## Pre-Requisite:
 
-1. Cypress is a desktop application that users need to install in their systems. The Cypress desktop application supports the following operating systems:
+1. **Cypress** is a desktop application that users need to install in their systems. The Cypress desktop application supports the following operating systems:
 
 - MacOS 10.9 and above (64-bit only)
 - Windows 7 and above
 - Linux Ubuntu 12.04 and above, Fedora 21 and Debian.
 
-2. Cypress is a Node-based application. One needs to have Node.js preinstalled in their systems (Node.js 12 or 14 and above). Node.js is a JavaScript runtime environment. The Node.js installation also covers the installation of npm (Node package manager). Download and install Node.js for a particular operating system from this [official resource](https://nodejs.org/en/download/).
+2. Cypress is a Node-based application. One needs to have **Node.js** preinstalled in their systems (Node.js 12 or 14 and above). Node.js is a JavaScript runtime environment. The Node.js installation also covers the installation of **npm (Node package manager)**. Download and install Node.js for a particular operating system from this [official resource](https://nodejs.org/en/download/).
 
-3. Git is installed and configured. Please see this [article](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git) in the github documentation.
+3. **Git** is installed and configured. Please see this [article](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git) in the github documentation.
+
+4. For IDE/Code Editor, I used **Visual Studio Code**. Some installation guide can be found [here](https://code.visualstudio.com/docs/setup/setup-overview).
 
 ## Fork + Testing + Help
 
