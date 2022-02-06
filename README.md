@@ -14,7 +14,7 @@ It is an automation test repo to learn and understand Cypress test framework. Th
 
 3. **Git** is installed and configured. Please see this [article](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git) in the github documentation.
 
-4. For IDE/Code Editor, I used **Visual Studio Code**. Some installation guide can be found [here](https://code.visualstudio.com/docs/setup/setup-overview).
+4. For IDE/Code Editor, I have used **Visual Studio Code**. Some installation guide can be found [here](https://code.visualstudio.com/docs/setup/setup-overview).
 
 ## Fork + Testing + Help
 
